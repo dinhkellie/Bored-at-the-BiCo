@@ -7,7 +7,6 @@
 
 .animating {
     margin: 20px;
-    height: 100px;
     -webkit-animation: spin 3s ease;
 }
 
@@ -17,8 +16,7 @@
 }
 
 
-.logo {
-  content:url(https://cdn.glitch.com/05141f73-c13e-4178-b0aa-6ade731e2832%2FBored%20At%20The%20BiCo.png?1490469836711);
+.logo img {
   height: 10%;
   width: 60%;
   display: block;
@@ -27,8 +25,8 @@
   
 }
 
-.button {
-  content:url(https://cdn.glitch.com/05141f73-c13e-4178-b0aa-6ade731e2832%2Fwheel%202.png?1490488308471);
+.button img {
+  position: relative;
   align-content: center;
   width: 78%;
   height: auto;
@@ -52,7 +50,6 @@ div {
 .button-container {
   position: absolute;
   justify-content: center;
-  padding-left: 5vw;
 }
 
 .show {
