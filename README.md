@@ -1,4 +1,4 @@
-# Bored in the BiCo
+# Bored at the BiCo
 Web App for Hack The TriCo Spring 2017 - Winner: Honorable Mention
 
 What should you do today? Overwhelmed by the options available at both Bryn Mawr and Haverford College? Are you bored at the bico?
